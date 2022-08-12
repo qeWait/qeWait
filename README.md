@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel (PHP framework).
 - 👨‍🎓 I’m studying at IT Step University - bachelor
 - 📫 How to reach me: 
-    TG: [@kin_kod](https://t.me/kin_kod).
+- - TG: [@kin_kod](https://t.me/kin_kod).
 - 🔥 Worked with such programming languages: PHP, Python, JS, Dart, Java, SQL, Lua.
 - 🛴 Worked with such frameworks:
 - - Laravel (PHP) - Trainee
