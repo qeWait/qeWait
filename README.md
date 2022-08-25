@@ -5,7 +5,7 @@ UA:
 - 🌱 Зараз я вивчаю Laravel (PHP framework).
 - 👨‍🎓 Навчаюсь в IT Step University - бакалавр 
 - 📫 Як зі мною зв'язатись: 
-- - TG: [@kin_kod](https://t.me/kin_kod).
+- - TG: [@qeWait](https://t.me/qeWait).
 - 🔥 Працював з такими мовами програмування: 
 - - PHP
 - - Python
@@ -25,7 +25,7 @@ EN:
 - 🌱 I’m currently learning Laravel (PHP framework).
 - 👨‍🎓 I’m studying at IT Step University - bachelor
 - 📫 How to contact me: 
-- - TG: [@kin_kod](https://t.me/kin_kod).
+- - TG: [@qeWait](https://t.me/qeWait).
 - 🔥 Worked with such programming languages:
 - - PHP
 - - Python
