@@ -2,7 +2,7 @@ UA:
 
 - 👋 Привіт, Я @qeWait.
 - 👀 Я зацікавлений в Back-end розробці.
-- 🌱 Зараз я вивчаю Laravel (PHP framework).
+- 🌱 Зараз я вивчаю C.
 - 👨‍🎓 Навчаюсь в IT Step University - бакалавр 
 - 📫 Як зі мною зв'язатись: 
 - - TG: [@qeWait](https://t.me/qeWait).
@@ -22,7 +22,7 @@ EN:
 
 - 👋 Hi, I’m @qeWait.
 - 👀 I’m interested in Back-end development.
-- 🌱 I’m currently learning Laravel (PHP framework).
+- 🌱 I’m currently learning C.
 - 👨‍🎓 I’m studying at IT Step University - bachelor
 - 📫 How to contact me: 
 - - TG: [@qeWait](https://t.me/qeWait).
