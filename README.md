@@ -4,8 +4,6 @@ UA:
 - 👀 Я зацікавлений в Back-end розробці.
 - 🌱 Зараз я вивчаю C.
 - 👨‍🎓 Навчаюсь в IT Step University - бакалавр 
-- 📫 Як зі мною зв'язатись: 
-- - TG: [@qeWait](https://t.me/qeWait).
 - 🔥 Працював з такими мовами програмування: 
 - - PHP
 - - Python
@@ -23,9 +21,7 @@ EN:
 - 👋 Hi, I’m @qeWait.
 - 👀 I’m interested in Back-end development.
 - 🌱 I’m currently learning C.
-- 👨‍🎓 I’m studying at IT Step University - bachelor
-- 📫 How to contact me: 
-- - TG: [@qeWait](https://t.me/qeWait).
+- 👨‍🎓 I’m studying at IT Step University - bachelor\
 - 🔥 Worked with such programming languages:
 - - PHP
 - - Python
